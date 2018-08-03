@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2E799E202114DEF300E8D497 /* Sduko */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Sduko; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E799E232114DEF300E8D497 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2E799E2A2114E07200E8D497 /* storeUnit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = storeUnit.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2E799E232114DEF300E8D497 /* main.cpp */,
+				2E799E2A2114E07200E8D497 /* storeUnit.h */,
 			);
 			path = Sduko;
 			sourceTree = "<group>";
